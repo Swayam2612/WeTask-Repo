@@ -386,6 +386,43 @@ The frontend includes:
 
 ---
 
+# Demo User Testing
+
+The application includes pre-configured demo accounts for quick testing and evaluation.
+
+## Admin Demo Account
+
+| Role  | Email                | Password |
+| ----- | -------------------- | -------- |
+| Admin | `Swayam26@gmail.com` | `swayam` |
+
+### Admin Access Includes
+
+* Full dashboard access
+* Team management
+* Project management
+* Task creation and assignment
+* User management
+* Analytics access
+
+---
+
+## Demo Member Account
+
+| Role   | Email            | Password   |
+| ------ | ---------------- | ---------- |
+| Member | `demo@gmail.com` | `demo@123` |
+
+### Member Access Includes
+
+* View assigned projects
+* Manage personal tasks
+* Update task statuses
+* Access member dashboard
+* Collaborate within teams
+
+---
+
 # Installation Guide
 
 ## 1. Clone Repository
